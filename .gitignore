@@ -1,3 +1,6 @@
-venv
 .idea
-!venv/run.py
+venv/bin
+venv/include
+venv/lib
+venv/pip-selfcheck.json
+venv/pyvenv.cfg
