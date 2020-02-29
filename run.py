@@ -11,11 +11,13 @@ img = imread('github.png')
 
 plt.imshow(img)
 plt.show()
-
-#plt.plot(x, y1, label="sin")
-#plt.plot(x, y2, linestyle="--", label="cos")
-#plt.xlabel("x")
-#plt.ylabel("y")
-#plt.title('sin & cos')
-#plt.legend()
-#plt.show()
+'''
+그래프 그리기
+plt.plot(x, y1, label="sin")
+plt.plot(x, y2, linestyle="--", label="cos")
+plt.xlabel("x")
+plt.ylabel("y")
+plt.title('sin & cos')
+plt.legend()
+plt.show()
+'''
